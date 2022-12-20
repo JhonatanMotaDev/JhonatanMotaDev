@@ -16,8 +16,3 @@ pronouns: He/His <br>
 ![Component 2](https://user-images.githubusercontent.com/119200828/208148420-47b33493-502a-49a7-aecd-762007a2a952.png)
 
 ##
-
-![image](https://user-images.githubusercontent.com/119200828/205444342-805959a0-d231-4148-b2c1-50804d9467bb.png)
-![image](https://user-images.githubusercontent.com/119200828/205444361-b466c6eb-0886-48f3-bdbd-14243c3004b7.png)
-![image](https://user-images.githubusercontent.com/119200828/205444387-8d21a6fe-39a5-4132-9bb4-650925f8a2c9.png)
-![image](https://user-images.githubusercontent.com/119200828/205444434-94dc5b59-0d4c-498a-8d6d-474955c9dd14.png)

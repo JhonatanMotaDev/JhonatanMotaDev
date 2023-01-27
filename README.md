@@ -29,11 +29,19 @@
 <hr>
 
 <div>
-<img height="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JhonatanMotaDev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMotaDev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhonatanMotaDev&theme=github_dark)
+ 
 </div>
 
+
+<div>
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JhonatanMotaDev&theme=github_dark)
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JhonatanMotaDev&theme=github_dark&utcOffset=8)
+</div>
+ 
 <hr>
 
 <div>

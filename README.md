@@ -15,8 +15,8 @@
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> &emsp;
- <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &emsp;
- <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <br><br>
+ <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> &emsp;
+ <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <br><br>
  
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> &emsp;

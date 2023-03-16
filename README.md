@@ -25,11 +25,12 @@
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> &emsp;
- <img align="center"  height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
- </div>
-
-<hr>
-
+ <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original-wordmark.svg"/>
+                                                                                                    
+</div>
+                                                                                                               
+ <hr>
+                                                                                                               
 <div>
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhonatanMotaDev&theme=github_dark)

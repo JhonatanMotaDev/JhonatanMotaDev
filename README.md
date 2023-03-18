@@ -28,10 +28,16 @@
                                                                                                                
 <hr>
  
-<div>
+<div align="left">
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhonatanMotaDev&theme=dark)
+ 
+<div >
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JhonatanMotaDev&theme=dark)
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JhonatanMotaDev&theme=dark&utcOffset=8)
+ 
+</div>
 
 </div>

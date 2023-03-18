@@ -1,13 +1,12 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jhonatan Mota</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JhonatanMotaDev&color=yellow" alt="Profile views" /></p>
 
-<b> 🐱‍🏍 Web Developer & Computation Enthusiast  
+<b> Web Developer & Computation Enthusiast  
 
-<b> 📝 I’m currently learning HTML5, CSS3 & JavaScript at [Rocketseat](https://github.com/Rocketseat) </b>
+<b> I’m currently learning HTML5, CSS3 & JavaScript at [Rocketseat](https://github.com/Rocketseat) </b>
  
-<b> 💬 Some posts on Twitter - [@jhonatanmotadev](https://twitter.com/jhonatanmotadev/with_replies) </b>
+<b> Some posts on Twitter - [@jhonatanmotadev](https://twitter.com/jhonatanmotadev/with_replies) </b>
  
-<b> 🐱‍💻 More at my Linkedin - [Jhonatan Mota](https://www.linkedin.com/in/jhonatan-mota-2a61b5259/) </b>
+<b> More at my Linkedin - [Jhonatan Mota](https://www.linkedin.com/in/jhonatan-mota-2a61b5259/) </b>
 
 ## 🛠 &nbsp;Tech Stack
 <div>

@@ -15,7 +15,6 @@
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> &emsp;
- <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>&emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>&emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/> <br><br>
@@ -24,7 +23,6 @@
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/> &emsp;
- <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original-wordmark.svg"/>
                                                                                                     
 </div>

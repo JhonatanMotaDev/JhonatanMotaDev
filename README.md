@@ -46,13 +46,13 @@
 <div>
  
 <a href="https://twitter.com" target="(https://twitter.com/jhonatanmotadev)">
-  <img height="30px" widht="30px" align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  &emsp;
+  <img height="30px" widht="30px" align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>
 </a>
 <a href="https://linkedin.com" target="[_blank](https://www.linkedin.com/in/jhonatan-mota-2a61b5259/)">
-  <img height="30px" widht="30px" align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/> &emsp;
+  <img height="30px" widht="30px" align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://youtube.com" target="[_blank](https://www.youtube.com/channel/UC6wU1npKy8dbMRRc6TExbrQ)">
- <img height="30px" widht="30px" align="center" src="https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube" alt="youtube"/> &emsp;
+ <img height="30px" widht="30px" align="center" src="https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
  
 </div>

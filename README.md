@@ -26,7 +26,12 @@
                                                                                                     
 </div>
                                                                                                                
- <hr>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JhonatanMotaDev&theme=github_dark)
+<hr>
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JhonatanMotaDev&theme=github_dark&utcOffset=8)
+<div>
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JhonatanMotaDev&theme=dark)
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JhonatanMotaDev&theme=dark&utcOffset=8)
+
+</div>

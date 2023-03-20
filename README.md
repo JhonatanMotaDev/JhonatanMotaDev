@@ -22,7 +22,10 @@
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original-wordmark.svg"/>
+ 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JhonatanMotaDev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatanMotaDev&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMotaDev&theme=transparent)
+ <img align="center" height="400px" widht="800px" src="https://github-readme-activity-graph.cyclic.app/graph?username=JhonatanMotaDev&theme=react-dark"/>
+<div>
+ <img align="center" height="300px" widht="50px" src="https://github-readme-stats.vercel.app/api?username=JhonatanMotaDev&theme=transparent"/>
+ <img align="center" height="300px" widht="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMotaDev&theme=transparent"/> 
+</div>

@@ -23,3 +23,5 @@
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original-wordmark.svg"/>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JhonatanMotaDev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)

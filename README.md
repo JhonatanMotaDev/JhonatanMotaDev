@@ -1,4 +1,4 @@
-<h1> <b> Hi, I'm Jhonatan Mota </h1>
+<h1> <b> Hi, I'm   </h1>
 
 <b> Web Developer & Computation Enthusiast  
 
@@ -9,7 +9,7 @@
 <b> More at my Linkedin - [Jhonatan Mota](https://www.linkedin.com/in/jhonatan-mota-2a61b5259/) </b>
 
 ## 🛠 &nbsp;Tech Stack
-<div>
+
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> &emsp;
@@ -22,10 +22,7 @@
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original-wordmark.svg"/>
-</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JhonatanMotaDev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatanMotaDev&show_icons=true&theme=transparent)
- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMotaDev&theme=transparent)

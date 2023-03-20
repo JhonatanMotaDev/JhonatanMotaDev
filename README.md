@@ -24,8 +24,8 @@
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original-wordmark.svg"/>
  
 
- <img align="center" height="400px" widht="800px" src="https://github-readme-activity-graph.cyclic.app/graph?username=JhonatanMotaDev&theme=react-dark"/>
+ <img align="center" height="250px" width="570px" src="https://github-readme-activity-graph.cyclic.app/graph?username=JhonatanMotaDev&theme=react-dark"/>
 <div>
- <img align="center" height="300px" widht="50px" src="https://github-readme-stats.vercel.app/api?username=JhonatanMotaDev&theme=transparent"/>
- <img align="center" height="300px" widht="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMotaDev&theme=transparent"/> 
+ <img align="center" height="150px" widht="900px" src="https://github-readme-stats.vercel.app/api?username=JhonatanMotaDev&theme=transparent"/>
+ <img align="center" height="150px" widht="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMotaDev&theme=transparent"/> 
 </div>

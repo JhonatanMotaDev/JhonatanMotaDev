@@ -10,7 +10,6 @@
 
 ## 🛠 &nbsp;Tech Stack
 <div>
- 
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> &emsp;
@@ -23,21 +22,4 @@
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/> &emsp;
  <img align="center" height="80px" widht="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original-wordmark.svg"/>
-                                                                                                    
-</div>
-                                                                                                               
-<hr>
- 
-<div align="left">
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhonatanMotaDev&theme=dark)
- 
-<div >
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JhonatanMotaDev&theme=dark)
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JhonatanMotaDev&theme=dark&utcOffset=8)
- 
-</div>
-
 </div>

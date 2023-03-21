@@ -2,7 +2,7 @@
 
 <b> Web Developer & Computation Enthusiast  
 
-<b> I’m currently learning HTML5, CSS3 & JavaScript at [Rocketseat](https://github.com/Rocketseat) </b>
+<b> I’m currently learning HTML5, CSS3, Node.JS, SQL & JavaScript at [Rocketseat](https://github.com/Rocketseat) </b>
  
 <b> Some posts on Twitter - [@jhonatanmotadev](https://twitter.com/jhonatanmotadev/with_replies) </b>
  

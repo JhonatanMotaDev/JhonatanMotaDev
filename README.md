@@ -1,4 +1,6 @@
-<h1></h1>
+<img align="right" height="590em" src="https://i.pinimg.com/originals/a7/85/4b/a7854b2e4d6f516476a8187c77e594a9.gif"/>
+
+<h1>Hi, I'm Jhonatan Mota</h1>
 
 <b> Web Developer & Computation Enthusiast  
 
@@ -41,11 +43,4 @@
  <img align="center" height="150px" widht="900px" src="https://github-readme-stats.vercel.app/api?username=JhonatanMotaDev&theme=transparent"/>
  <img align="center" height="150px" widht="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMotaDev&theme=transparent"/> 
 </div>
- 
-<br><br>
-🛠 &nbsp;Social Media
-##
 
-<a href="https://twitter.com/jhonatanmotadev" target="_blank"><img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" target="_blank"></a>
- 
-<a href="https://www.linkedin.com/in/jhonatan-mota-2a61b5259/" target="_blank"><img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>

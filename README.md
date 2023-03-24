@@ -1,4 +1,4 @@
-<h1> <b> Hi, I'm Jhonatan Mota  </h1>
+<h1> <b></h1>
 
 <b> Web Developer & Computation Enthusiast  
 
@@ -13,17 +13,24 @@
  <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> &emsp;
  <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> &emsp;
  <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> &emsp;
- <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>&emsp;
- <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>&emsp;
- <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/> <br><br>
+  <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> &emsp;
+ <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> &emsp;
+ <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/> &emsp;
+ <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>  &emsp;
+ <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /> &emsp;
+ <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> &emsp;
+ 
+## 🛠 &nbsp;Workstation
+ 
  <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> &emsp;
  <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/> &emsp;
- <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> &emsp;
+ <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/> &emsp;
  <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/> &emsp;
  <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/> &emsp;
- <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original-wordmark.svg"/>
- 
-
+ <img align="center" height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+          
+          
+         
  <img align="center" height="250px" width="570px" src="https://github-readme-activity-graph.cyclic.app/graph?username=JhonatanMotaDev&theme=react-dark"/>
 <div>
  <img align="center" height="150px" widht="900px" src="https://github-readme-stats.vercel.app/api?username=JhonatanMotaDev&theme=transparent"/>

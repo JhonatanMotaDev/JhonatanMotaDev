@@ -10,33 +10,39 @@
  
 <b> More at my Linkedin - [Jhonatan Mota](https://www.linkedin.com/in/jhonatan-mota-2a61b5259/) </b>
 
-🛠 &nbsp;Tech Stack
-##
+  <br> <br>
  
- <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> &emsp;
- <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> &emsp;
- <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> &emsp;
- <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> &emsp;
- <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/> &emsp;
- <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>  &emsp;
- <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /> &emsp;
- <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> &emsp;
+<h2> 🛠 Tech Stack </h2>
  
-<br><br>
-🛠 Workstation
-##
+<div>
+ <img height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&emsp;
+ <img height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&emsp;
+ <img height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&emsp;          
+ <img height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&emsp;     
+ <img height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>&emsp;     
+</div>
  
- <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> &emsp;
- <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/> &emsp;
- <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/> &emsp;
- <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/> &emsp;
- <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/> &emsp;
- <img height="50px" widht="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
- <br><br>
-🛠 &nbsp;Stats 
-##
-
+<div>
+ <img height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>&emsp;
+ <img height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/> &emsp;
+ <img height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/> &emsp;
+ <img height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /> &emsp;
+ <img height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> &emsp;
+</div>   
+ 
+  <br> <br>
+ 
+<h2> 🛠 Workstation </h2>
+ 
+ <img height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> &emsp;
+ <img height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/> &emsp;
+ <img height="70px" widht="70px" src="https://user-images.githubusercontent.com/119200828/228268417-90b08a97-f15f-40af-9bef-89c0e929ed02.png"/>  &emsp;
+ <img height="70px" widht="70px" src="https://user-images.githubusercontent.com/119200828/228268395-db21159d-4506-4662-b25a-70c4ab74ae06.png"/>
+ 
+  <br> <br>
+ 
+<h2> 🛠 Stats </h2>
+ 
 <img align="center" height="250px" width="570px" src="https://github-readme-activity-graph.cyclic.app/graph?username=JhonatanMotaDev&theme=react-dark"/>
  
 <div>

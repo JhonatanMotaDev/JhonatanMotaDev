@@ -35,7 +35,9 @@
  
 <h2> 🛠 Workstation </h2>
  
- <img align="right" height="625em" src="https://memestatic.fjcdn.com/gifs/Pixel+art+gifs+most+from+waneella_88dfa3_7253146.gif"/>
+ <div>
+ <img align="right" height="615em" src="https://memestatic.fjcdn.com/gifs/Pixel+art+gifs+most+from+waneella_88dfa3_7253146.gif"/>
+ </div>
  
  <img height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> &emsp;
  <img height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/> &emsp;

@@ -1,6 +1,6 @@
-<img align="right" height="590em" src="https://i.pinimg.com/originals/a7/85/4b/a7854b2e4d6f516476a8187c77e594a9.gif"/>
+<img align="right" width="331px" height="615em" src="https://cutewallpaper.org/28/comfy-gif-wallpaper/giants-the-personal-blog-of-shahzeb-najam-md.gif"/>
 
-<h1>Hello World!</h1>
+<h1>Hello World!</h1> 
 
 
 <b> Web Developer & Computation Enthusiast  
@@ -35,6 +35,8 @@
  
 <h2> 🛠 Workstation </h2>
  
+ <img align="right" height="615em" src="https://memestatic.fjcdn.com/gifs/Pixel+art+gifs+most+from+waneella_88dfa3_7253146.gif"/>
+ 
  <img height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> &emsp;
  <img height="70px" widht="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/> &emsp;
  <img height="70px" widht="70px" src="https://user-images.githubusercontent.com/119200828/228268417-90b08a97-f15f-40af-9bef-89c0e929ed02.png"/>  &emsp;
@@ -43,7 +45,7 @@
   <br> <br>
  
 <h2> 🛠 Stats </h2>
- 
+  
 <img align="center" height="250px" width="570px" src="https://github-readme-activity-graph.cyclic.app/graph?username=JhonatanMotaDev&theme=react-dark"/>
  
 <div>

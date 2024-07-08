@@ -1,1 +1,2 @@
-C | HTML | CSS | JavaScript | Bootstrap | Tailwind | Git 
+Developer and Bachelor in Computer Engineering
+* Made on earth by humans </> *

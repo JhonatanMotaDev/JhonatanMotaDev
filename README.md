@@ -1,2 +1,2 @@
-Developer and Bachelor in Computer Engineering
+Developer and Bachelor in Computer Engineering <b/>
 Made on earth by humans </>

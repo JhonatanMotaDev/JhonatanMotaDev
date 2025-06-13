@@ -1,4 +1,4 @@
-<p align="left">✨ Creating bugs since 2005 🎌<br>
+<p align="left">✨ Creating bugs since 2005<br>
 
 ###
 

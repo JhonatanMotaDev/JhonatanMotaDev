@@ -1,5 +1,4 @@
-<p>💾 Web developer & Jr. System Analyst</p>
-<p align="left">✨ Creating bugs since 2005<br>
+<p>💾 Web developer</p>
 
 ###
 

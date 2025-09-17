@@ -1,5 +1,6 @@
 <h3>Computer Engineering undergraduate | Full-Stack Developer | Tech Enthusiast</h3>
-## 📊 GitHub Stats
+
+## 📊 GitHub Status
 ![Metrics](https://raw.githubusercontent.com/JhonatanMotaDev/JhonatanMotaDev/main/github-metrics.svg)
 
 

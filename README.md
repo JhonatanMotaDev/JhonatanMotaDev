@@ -1,11 +1,10 @@
-📊 GitHub Status
 ![Metrics](https://raw.githubusercontent.com/JhonatanMotaDev/JhonatanMotaDev/main/github-metrics.svg)
 
 ---
 
 ## 🌍 About Me
 - 📍 Based in Montes Claros, MG, Brazil  
-- 🎓 Bachelor in Computer Engineering  
+- 🎓 Bachelor in Computer Engineering @Afya
 - 💻 Passionate about web and mobile development, full-stack applications, and building scalable solutions  
 - 🌱 Currently enhancing skills in **React, TypeScript, Node.js, MySQL, PHP, Python**
 

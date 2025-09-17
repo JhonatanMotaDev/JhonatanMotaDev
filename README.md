@@ -1,8 +1,8 @@
 ![Metrics](https://raw.githubusercontent.com/JhonatanMotaDev/JhonatanMotaDev/main/github-metrics.svg)
 
-<h1 align="center">🛠 Tech Stack</h1>
+<h1>🛠 Tech Stack</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64" style="margin: 10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="64" height="64" style="margin: 10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="64" height="64" style="margin: 10px"/>

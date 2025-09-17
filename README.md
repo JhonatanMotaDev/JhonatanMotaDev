@@ -1,5 +1,7 @@
-<h1>Hi 👋, I'm Jhonatan Mota</h1>
-<h3>Computer Engineering Graduate | Full-Stack Developer | Tech Enthusiast</h3>
+<h3>Computer Engineering undergraduate | Full-Stack Developer | Tech Enthusiast</h3>
+## 📊 GitHub Stats
+![Metrics](https://raw.githubusercontent.com/JhonatanMotaDev/JhonatanMotaDev/main/github-metrics.svg)
+
 
 ---
 
@@ -41,8 +43,6 @@ A platform to manage gyms, track memberships, classes, and progress for users. D
 
 ---
 
-## 📊 GitHub Stats
-![Metrics](https://raw.githubusercontent.com/JhonatanMotaDev/JhonatanMotaDev/main/github-metrics.svg)
 
 ---
 

@@ -39,9 +39,6 @@ A platform to manage gyms, track memberships, classes, and progress for users. D
 
 ---
 
-
----
-
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jhonatanmota)  
 - [Twitter](https://twitter.com/jhonatanmotadev)  

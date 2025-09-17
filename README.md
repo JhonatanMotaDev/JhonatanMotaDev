@@ -1,8 +1,6 @@
 ![Metrics](https://raw.githubusercontent.com/JhonatanMotaDev/JhonatanMotaDev/main/github-metrics.svg)
 
----
-
-## 🛠 Tech Stack
+🛠 Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24"/>

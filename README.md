@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jhonatan Mota</h1>
-<h3 align="center">Computer Engineering Graduate | Full-Stack Developer | Tech Enthusiast</h3>
+<h1>Hi 👋, I'm Jhonatan Mota</h1>
+<h3>Computer Engineering Graduate | Full-Stack Developer | Tech Enthusiast</h3>
 
 ---
 
@@ -7,8 +7,7 @@
 - 📍 Based in Montes Claros, MG, Brazil  
 - 🎓 Bachelor in Computer Engineering  
 - 💻 Passionate about web and mobile development, full-stack applications, and building scalable solutions  
-- 🌱 Currently enhancing skills in **React, TypeScript, Node.js**, and exploring **cloud technologies**  
-- ⚡ Fun fact: I love gamifying projects for motivation and learning efficiency
+- 🌱 Currently enhancing skills in **React, TypeScript, Node.js, MySQL, PHP, Python**
 
 ---
 
@@ -32,26 +31,21 @@
 
 ## 🚀 Featured Projects
 
-### [GymQuest](https://github.com/JhonatanMotaDev/gymquest)
-*TypeScript | Web & Mobile App for Gym Management*  
-A platform to manage gyms, track memberships, classes, and progress for users. Designed to improve engagement and retention.
-
 ### [Sports Connect](https://github.com/JhonatanMotaDev/sports-connect)
 *React Native | Social Sports App*  
 A mobile app connecting sports enthusiasts. Users can join local games, track activities, and challenge friends to improve fitness and community engagement.
 
+### [GymQuest](https://github.com/JhonatanMotaDev/gymquest)
+*TypeScript | Web & Mobile App for Gym Management*  
+A platform to manage gyms, track memberships, classes, and progress for users. Designed to improve engagement and retention.
+
 ---
 
 ## 📊 GitHub Stats
-
-![Jhonatan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonatanMotaDev&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Metrics](https://raw.githubusercontent.com/JhonatanMotaDev/JhonatanMotaDev/main/github-metrics.svg)
 
 ---
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jhonatanmota)  
 - [Twitter](https://twitter.com/jhonatanmotadev)  
-
----
-
-> "Coding is not just writing lines, it’s building solutions and experiences."

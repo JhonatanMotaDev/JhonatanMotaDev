@@ -8,7 +8,7 @@ I'm an full-stack developer and computer engineer passionate about building mean
   <a href="https://github.com/JhonatanMotaDev">
     <img alt="GitHub" title="Check my GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/jhonatanmotadev/">
+  <a href="https://www.linkedin.com/in/jhonatanmota/">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://jhonatanmotadev.github.io/">
@@ -21,7 +21,6 @@ I'm an full-stack developer and computer engineer passionate about building mean
     <img alt="Email" title="Contact me" src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
@@ -45,10 +44,10 @@ I'm an full-stack developer and computer engineer passionate about building mean
 ### 📺 Playlist Recommendation
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Video 1](https://ytcards.demolab.com/?id=5NgNicANyqM&title=Video+1&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 1")](https://www.youtube.com/watch?v=5NgNicANyqM&t=375s)
-[![Video 2](https://ytcards.demolab.com/?id=5NgNicANyqM&title=Video+2&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 2")](https://www.youtube.com/watch?v=5NgNicANyqM&t=375s)
-[![Video 3](https://ytcards.demolab.com/?id=alfdI7S6wCY&title=Video+3&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 3")](https://www.youtube.com/watch?v=alfdI7S6wCY)
-[![Video 4](https://ytcards.demolab.com/?id=zOjov-2OZ0E&title=Video+4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 4")](https://www.youtube.com/watch?v=zOjov-2OZ0E)
-[![Video 5](https://ytcards.demolab.com/?id=-UrdExQW0cs&title=Video+5&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 5")](https://www.youtube.com/watch?v=-UrdExQW0cs)
-[![Video 6](https://ytcards.demolab.com/?id=2NMtS1ecb3o&title=Video+6&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 6")](https://www.youtube.com/watch?v=2NMtS1ecb3o&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+[![Video 1](https://ytcards.demolab.com/?id=5NgNicANyqM&title=Video+2&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 2")](https://www.youtube.com/watch?v=5NgNicANyqM&t=375s)
+[![Video 2](https://ytcards.demolab.com/?id=alfdI7S6wCY&title=Video+3&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 3")](https://www.youtube.com/watch?v=alfdI7S6wCY)
+[![Video 3](https://ytcards.demolab.com/?id=zOjov-2OZ0E&title=Video+4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 4")](https://www.youtube.com/watch?v=zOjov-2OZ0E)
+[![Video 4](https://ytcards.demolab.com/?id=-UrdExQW0cs&title=Video+5&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 5")](https://www.youtube.com/watch?v=-UrdExQW0cs)
+[![Video 5](https://ytcards.demolab.com/?id=2NMtS1ecb3o&title=Video+6&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 6")](https://www.youtube.com/watch?v=2NMtS1ecb3o&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+[![Video 6](https://ytcards.demolab.com/?id=5NgNicANyqM&title=Video+1&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 1")](https://www.youtube.com/watch?v=5NgNicANyqM&t=375s)
 <!-- END YOUTUBE-CARDS -->

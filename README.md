@@ -11,7 +11,7 @@ I believe in coding with empathy, designing with clarity, and always learning th
 ## Current Projects
 
 - 💡 **Sports Connect** — A community-based mobile app connecting athletes through events and shared performance data.  
-- 🧠 **NeuroLens** — AI/ML solution focused on helping doctors find subtle neurodegenerative diseases signals by analysing EEG exams
+- 🧠 **NeuroLens** — AI/ML solution focused on helping doctors find subtle neurodegenerative diseases signals by analysing EEG exams.
 
 ---
 

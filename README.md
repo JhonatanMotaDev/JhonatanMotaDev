@@ -1,12 +1,11 @@
-# 🐍 Jhonatan Mota
+#  Jhonatan Mota 🐍
 
-**`Digital Craftsman (Developer/Designer/AI|ML)`**
+**`Developer / Designer / AI|ML`**
 
 I'm an full-stack developer and computer engineer passionate about building meaningful tech experiences from scratch. Every project I create from AI-driven health platforms to mobile and web applications designed to solve real problems and make technology more human. I approach code like art: planning, designing, and developing each detail with purpose. Beyond coding, I share what I learn through academic projects, mentorship, and creative work that bridges engineering, design, and storytelling. Bit by bit, I’m shaping my own version of the digital world.
 
 
-
----
+<h1>Tech Stack 🛠️</h1>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64" style="margin: 10px"/>
@@ -21,9 +20,9 @@ I'm an full-stack developer and computer engineer passionate about building mean
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="64" height="64" style="margin: 10px"/>
 </p>
 
-#
 
-### 📺 Playlist Recommendation
+<h1>Playlist Recommendation 📺</h1>
+
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Video 1](https://ytcards.demolab.com/?id=5NgNicANyqM&title=Video+2&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 2")](https://www.youtube.com/watch?v=5NgNicANyqM&t=375s)
@@ -33,6 +32,8 @@ I'm an full-stack developer and computer engineer passionate about building mean
 [![Video 5](https://ytcards.demolab.com/?id=2NMtS1ecb3o&title=Video+6&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 6")](https://www.youtube.com/watch?v=2NMtS1ecb3o&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 [![Video 6](https://ytcards.demolab.com/?id=5NgNicANyqM&title=Video+1&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video 1")](https://www.youtube.com/watch?v=5NgNicANyqM&t=375s)
 <!-- END YOUTUBE-CARDS -->
+
+#
 
 <p align="left">
   <a href="https://github.com/JhonatanMotaDev">

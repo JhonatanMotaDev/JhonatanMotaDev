@@ -1,6 +1,5 @@
-<h1>
-  Comp Eng undergrad @ Afya, passionated about AI/ML
-</h1>
+
+![Metrics](https://raw.githubusercontent.com/JhonatanMotaDev/JhonatanMotaDev/main/github-metrics.svg)
 
 <h1>🛠 Tech Stack</h1>
 

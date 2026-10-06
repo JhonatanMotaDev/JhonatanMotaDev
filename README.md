@@ -1,11 +1,11 @@
 ### Computer Engineering undergraduate focused on **Artificial Intelligence, Software Engineering**.
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Engineering & Data Analysis
-- 🧠 Computer Vision
-- 🐍 Python development
-- ⚙️ Data pipelines and automation
-- 🌐 Full Stack development
+- Artificial Intelligence & Machine Learning
+-  Data Engineering & Data Analysis
+-  Computer Vision
+-  Python development
+-  Data pipelines and automation
+-  Full Stack development
 
 ---
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 📈 What I'm currently learning
+## What I'm currently learning
 
 - Data Engineering
 - Machine Learning
